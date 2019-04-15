@@ -22,7 +22,7 @@
 
 #### 안드로이드 버전 개요
 
- <img src="https://github.com/hyejin830/Android_Daily_Study_V2/blob/master/Day01/images/1.png" width="40%"></img>
+ <img src="https://github.com/hyejin830/Android_Daily_Study_V2/blob/master/Day01/images/1.png" width="60%"></img>
 
 - 안드로이드 버전 설정 시, 그 버전 이하의 안드로이드 단말기에서 앱을 설치 할 수 없다
 - OS 버전 마다 이용할 수 있는 API가 다르다. 오래된 SDK를 유지하면서 새로운 API를 적용하려면 OS별로 따로 출시하거나 라이브러리를 이용하는 등 독자적으로 구현할 필요가 있다
