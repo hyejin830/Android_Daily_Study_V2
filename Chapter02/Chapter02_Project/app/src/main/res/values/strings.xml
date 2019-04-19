@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Chapter02_Project</string>
+    <string name="save_restore_text_data">현재 상태를 일시적으로 저장해서 이용</string>
+    <string name="save_text">텍스트 저장</string>
+    <string name="text_text_view">안녕하세요. 오늘은 날씨가 쾌청하네요.</string>
+    <string name="text_new_toggle_button">New ToggleButton</string>
+    <string name="text_layout_activity">레이아웃 width와 weight를 이용한 예제</string>
+    <string name="text_update_indicator">눌러서 갱신</string>
+    <string name="text_star_indicator_custom_view">별 인디케이터 커스텀 뷰</string>
+</resources>
