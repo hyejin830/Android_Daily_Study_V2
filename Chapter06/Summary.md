@@ -19,7 +19,7 @@
 
 ```
 dependencies{
-    implement 'com.android.support:design:23.1.1'
+    implementation 'com.android.support:design:23.1.1'
 }
 ```
 
